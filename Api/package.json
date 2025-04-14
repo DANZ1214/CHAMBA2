@@ -1,0 +1,28 @@
+{
+  "name": "chamba",
+  "version": "1.0.0",
+  "description": "Chamba",
+  "main": "index.js",
+  "scripts": {
+    "test": "api, chamba"
+  },
+  "keywords": [
+    "api",
+    "chamba"
+  ],
+  "author": "Danie C",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parse": "^0.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "jwt-simple": "^0.5.6",
+    "lodash": "^4.17.21",
+    "multer": "^1.4.5-lts.2",
+    "mysql2": "^3.14.0",
+    "nodemon": "^3.1.9",
+    "sequelize": "^6.37.7"
+  }
+}
